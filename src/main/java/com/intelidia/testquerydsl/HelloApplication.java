@@ -1,5 +1,6 @@
 package com.intelidia.testquerydsl;
 
+import com.intelidia.testquerydsl.models.QUser;
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Scene;
@@ -15,7 +16,6 @@ public class HelloApplication extends Application {
         stage.setTitle("Hello!");
         stage.setScene(scene);
         stage.show();
-
     }
 
     public static void main(String[] args) {
