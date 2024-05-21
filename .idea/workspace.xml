@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9640c762-aa44-4c00-aae9-d3d855198f97" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/intelidia/testquerydsl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/intelidia/testquerydsl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/intelidia/testquerydsl/testquerydsl/models/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/intelidia/testquerydsl/testquerydsl/models/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/intelidia/testquerydsl/testquerydsl/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/intelidia/testquerydsl/testquerydsl/hello-view.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,18 +35,23 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.HelloApplication.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "<unknown>",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/home/noor/Documents/SDSI/code/TestQuerydsl/src/main/java/com/intelidia/testquerydsl/testquerydsl",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/java/com/intelidia/testquerydsl/testquerydsl" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.intelidia.testquerydsl" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
